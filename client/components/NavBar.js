@@ -57,7 +57,7 @@ const NavBar = () => {
       <AppBar>
         <Toolbar position='static'>
           <Typography variant='h6' color='inherit'>
-            MERN Base
+            Social App
           </Typography>
           <Link to='/'>
             <IconButton>

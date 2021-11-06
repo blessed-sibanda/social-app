@@ -45,7 +45,7 @@ const Home = () => {
       />
       <CardContent>
         <Typography variant='body2' component='p'>
-          Welcome to the MERN Base home page
+          Welcome to the Social App home page
         </Typography>
       </CardContent>
     </Card>
